@@ -12,4 +12,4 @@ Conferences presented (as of June, 2025):
 2) Catalan Economic Society Conference (CESC 2023, Barcelona)
 3) European Society for Population Economics (ESPE 2023, Belgrade)
 4) Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEC 2024, Stockholm)
-5) 2nd HEFUU Workshop in Causal Health Economics 2025, Uppsala
+5) 2nd HEFUU Workshop in Causal Health Economics 2025 (Uppsala)
