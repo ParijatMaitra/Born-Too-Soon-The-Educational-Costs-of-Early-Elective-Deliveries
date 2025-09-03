@@ -1,7 +1,3 @@
-**Update (3rd September, 2025): I will be presenting the paper at the Simposio de la Asociación Española de Economía (SAEe 2025, Barcelona) in December, 2025.**
-
-
-
 # **Born Too Soon? The Educational Costs of Early Elective Deliveries**
 First (preliminary and incomplete) draft: June, 2025
 
@@ -16,3 +12,7 @@ Conferences presented (as of June, 2025):
 3) European Society for Population Economics (ESPE 2023, Belgrade)
 4) Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEC 2024, Stockholm)
 5) 2nd HEFUU Workshop in Causal Health Economics 2025 (Uppsala)
+
+**Update (3rd September, 2025): I will be presenting the paper at the Simposio de la Asociación Española de Economía (SAEe 2025, Barcelona) in December, 2025.**
+
+
