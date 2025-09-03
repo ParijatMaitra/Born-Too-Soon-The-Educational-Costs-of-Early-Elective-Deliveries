@@ -1,7 +1,8 @@
-# **Born Too Soon? The Educational Costs of Early Elective Deliveries**
-
 **Update (3rd September, 2025): I will be presenting the paper at the Simposio de la Asociación Española de Economía (SAEe 2025, Barcelona) in December, 2025.**
 
+
+
+# **Born Too Soon? The Educational Costs of Early Elective Deliveries**
 First (preliminary and incomplete) draft: June, 2025
 
 **Abstract**:  A growing body of research shows that even mild shocks in early life can have longlasting effects on human capital development, underscoring the importance of early-life interventions. In parallel, advances in obstetric practices have made it increasingly possible to control the timing of childbirth. Cesarean sections and labor induction are now widespread, and in many cases, they are performed electively, often for non-medical reasons. While the rise in medically scheduled deliveries has sparked concerns about short-term health risks, little is known about the long-term consequences of early elective deliveries (EED), especially in low-risk pregnancies. We study the effects of early elective birth timing on children’s health and educational outcomes, focusing particularly on cognitive development as proxied by grades in primary school. We exploit a natural experiment in Spain: the abrupt cancellation of a generous birth benefit at the end of 2010. The policy change prompted a spike in elective deliveries in the last week of
