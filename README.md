@@ -16,5 +16,5 @@ Conferences presented (as of June, 2025):
 *******************************************************************************************************************************************************************
 
 **Update (3rd September, 2025): I will be presenting the paper at the Simposio de la Asociación Española de Economía (SAEe 2025, Barcelona) in December, 2025.**
-
+**Update (21st September, 2025): I will be presenting the paper at the Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEC 2025, Stockholm School of Economics) in October, 2025.**
 
