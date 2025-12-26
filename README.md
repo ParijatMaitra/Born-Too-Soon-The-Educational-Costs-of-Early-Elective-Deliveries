@@ -1,21 +1,5 @@
 # **Born Too Soon? The Educational Costs of Early Elective Deliveries**
-First (preliminary and incomplete) draft: June, 2025
 
-**Abstract**:  A growing body of research shows that even mild shocks in early life can have longlasting effects on human capital development, underscoring the importance of early-life interventions. In parallel, advances in obstetric practices have made it increasingly possible to control the timing of childbirth. Cesarean sections and labor induction are now widespread, and in many cases, they are performed electively, often for non-medical reasons. While the rise in medically scheduled deliveries has sparked concerns about short-term health risks, little is known about the long-term consequences of early elective deliveries (EED), especially in low-risk pregnancies. We study the effects of early elective birth timing on children’s health and educational outcomes, focusing particularly on cognitive development as proxied by grades in primary school. We exploit a natural experiment in Spain: the abrupt cancellation of a generous birth benefit at the end of 2010. The policy change prompted a spike in elective deliveries in the last week of
-December 2010. We show that children born due to this elective timing, who experienced slightly shorter gestation and lower birth weights within the normal range, subsequently faced elevated respiratory hospitalizations in their first year of life and, crucially, significantly worse school performance at age seven. Our findings provide causal evidence on the risks of early elective deliveries for medium-term child outcomes, and trace a clear path linking neonatal health to human capital formation.
+**Abstract**:  We examine the impact of early elective birth timing on children’s health and educational outcomes, focusing on cognitive development as measured by elementary school grades. We exploit a natural experiment in Spain: the abrupt termination of a generous child benefit at the end of 2010, which led to a sharp increase in elective deliveries during the final week of December. Children born during this spike had slightly shorter gestation periods and lower birth weights (within the normal range), and experienced a higher incidence of respiratory disorders during infancy. We find that the affected cohort of children had significantly lower academic performance at age seven (in second grade), suggesting large persistent effects on cognitive development. Our results provide causal evidence on the medium-term costs of early elective deliveries, and underscore the link between neonatal health and human capital.
 
-**WORKING PAPER forthcoming.**
-
-Conferences presented (as of June, 2025):
-1) Simposio de la Asociación Española de Economía (SAEe 2022, Valencia)
-2) Catalan Economic Society Conference (CESC 2023, Barcelona)
-3) European Society for Population Economics (ESPE 2023, Belgrade)
-4) Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEC 2024, Stockholm)
-5) 2nd HEFUU Workshop in Causal Health Economics 2025 (Uppsala)
-
-*******************************************************************************************************************************************************************
-
-**Update (3rd September, 2025): I will be presenting the paper at the Simposio de la Asociación Española de Economía (SAEe 2025, Barcelona) in December, 2025.**
-
-**Update (21st September, 2025): I will be presenting the paper at the Stockholm-Uppsala Doctoral Student Workshop in Economics (SUDSWEC 2025, Stockholm School of Economics) in October, 2025.**
 
